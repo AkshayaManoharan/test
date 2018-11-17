@@ -1,0 +1,13 @@
+div.main {
+    text-align:center ;
+    background-color: antiquewhite;
+    height: 30em;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 1em;
+}
+
+#display {
+    font-weight: bold;
+    
+}
